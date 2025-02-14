@@ -11,4 +11,4 @@ Connected to Shade45
     python shade.py
 
 
-    Propulsed by https://talkai.info
+Propulsed by https://talkai.info
